@@ -1,6 +1,6 @@
-This GitHub repository will be used to create and store work on the Freedom Project going forward.
+## This GitHub repository will be used to create and store work on the Freedom Project going forward.
 
-There should be FOUR files saved into this repository:
+There should be **at least FOUR** files saved into this repository:
 * The README file you're already in!
 * The First Content File
 * The Second Content File
