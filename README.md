@@ -22,3 +22,5 @@ idea of what it is. </p> <br>
 <p> Getting to the main points, we shall <a href="darkweb.md"> <i> get our journey started! </i> <p> <br>
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSrCmpAk_q39iGH3Wrb04LcMZRtW4DluW4syswCGT5r-3Yf1ZD0w&s">
+
+###### _written By Kayla Weng_
