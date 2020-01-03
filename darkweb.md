@@ -25,3 +25,5 @@ onion router so that they don't get tracked with anything. Especially the IP add
     <li> <b> Illicit substances </b> </li>
     <li> <b> Disturbing and dangerous items and services </b> </li>
 </ul>
+
+### In short, you can buy just about anything you can imagine — including things you’d probably be better off not imagining.
