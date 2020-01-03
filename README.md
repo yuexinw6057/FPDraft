@@ -1,28 +1,24 @@
-## This GitHub repository will be used to create and store work on the Freedom Project going forward.
+## Hello! Welcome to the Darkweb Exploring page! By the time you finish reading this, you will understand more im depth of the Mysterious Darkweb. 
+<br>
 
-There should be **at least FOUR** files saved into this repository:
-* The README file you're already in!
-* The First Content File
-* The Second Content File
-* The Third Content File
+### WHO?
+<p> You might be wondering who is this person writing this own blog on the darkweb. In fact you should all be asking that question. I am a student
+at Tele who is in SEP class who has a very deep interest in studying how the computers work. It wouldn't be as good to read other things as mine because
+this is written with 99.99% true info. Therefore, enjoy your *darkweb journey* ! </p> <br>
 
-Each content file should be named for the Research you are doing on the Freedom Project. 
-For example, you may be doing Epilepsy as a topic. Your three files would each correspond to the 
-subtopics you are writing about that topic. 
-Keep in mind that in the future, these would likely each correspond to a page on your website.
+### WHAT?
+<p> Now that I have hooked you in, what is the dark web? The darkweb is a mysterious place where people manage to access for their own entertainment. 
+I would like to say that a lot of it is very disturbing and just _f*^!_ up to see. Because of that, I am here to warn you and give you a tiny 
+idea of what it is. </p> <br> 
 
+### HOW? 
+<p> We will be learning about this topic by:
+<ul> 
+    <li> Understanding what is a darkweb. </li>
+    <li> What the government thinks and response to it. </li>
+    <li> How to stay safe in and out of the Darkweb -- the internet. </li>
+</ul> </p>
 
-Keeping with our Epilepsy example, the three content files might be named:
-* description.txt (For the subtopic: What is Epilepsy?)
-* diagnosis.txt (For the subtopic: Diagnosising Epilepsy)
-* signs-symptoms.txt (For the subtopic: Signs & Symptoms of a Seizure)
-* treatments.txt (For the subtopic: Treatments for Epilepsy)
+<p> Getting to the main points, we shall <a href="darkweb.md"> _get our journey started!_ <p> <br>
 
-_YOUR TASKS:_
-1. FORK this Repo
-2. CLONE this Repo to your IDE
-3. Create at least three .txt files in your IDE, each named after the subtopic they are covering.
-4. Inside each file, write the name of the subtopic as a HEADER 2, using markup.
-5. Save, add, commit, push it to Github.
-6. Begin writing the text for your website in the file.
-7. Remember to save, add, commit, push.
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSrCmpAk_q39iGH3Wrb04LcMZRtW4DluW4syswCGT5r-3Yf1ZD0w&s">
