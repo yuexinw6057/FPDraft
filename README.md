@@ -1,4 +1,4 @@
-## Hello! Welcome to the Darkweb Exploring page! By the time you finish reading this, you will understand more im depth of the Mysterious Darkweb. 
+## Hello! Welcome to the Darkweb Exploring page! By the time you finish reading this, you will understand more in depth of the Mysterious Darkweb. 
 <br>
 
 ### WHO?
