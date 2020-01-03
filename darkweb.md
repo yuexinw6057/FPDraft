@@ -24,3 +24,4 @@ onion router so that they don't get tracked with anything. Especially the IP add
     <li> <b> Stolen Info </b> </li>
     <li> <b> Illicit substances </b> </li>
     <li> <b> Disturbing and dangerous items and services </b> <li>
+</ul>
