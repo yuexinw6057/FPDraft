@@ -13,7 +13,14 @@ Either doing your work or just chilling. </li>
     <li> Now the final tip of the ice berg is a place where you don't want to be. The <i> Dark Web. </i> This place is full of illegal activities 
     and trafficking. The only way to get there if you have a website that secures your access to it. Web browsers like Tor allows you to access with 
     no difficulties. </li>
-</ul> <br>
+</ul> 
 
 <h4> <b> Dark Fact! </b> : <i> Dark web website addresses end with .onion instead of the surface web’s .com, .org, or .gov. They use something call the 
 onion router so that they don't get tracked with anything. Especially the IP addresses. </i> </h4>
+
+### What is in the darkweb?
+<p> The dark web is fulled of:
+<ul> 
+    <li> <b> Stolen Info </b> </li>
+    <li> <b> Illicit substances </b> </li>
+    <li> <b> Disturbing and dangerous items and services </b> <li>
